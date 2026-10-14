@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.staging/
+.venv/
+.secrets/
+.env
+.env.*
+!.env.example
+# Local catalogs, mail, attachments and generated history stay on this computer.
+data/*
+!data/catalog.test.json
+index.html
+.codex/
+*.lock

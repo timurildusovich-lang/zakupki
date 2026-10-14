@@ -1,0 +1,10 @@
+{
+  "timezone": "Europe/Moscow",
+  "weekdays": [1, 2, 3, 4, 5],
+  "start": "09:00",
+  "end": "19:00",
+  "new_year_break": [{"start": "12-31", "end": "01-07"}],
+  "rule_confirmed": true,
+  "test_fixture_only": true,
+  "note": "Календарь тестов соответствует подтверждённым пользователем рабочим часам и новогоднему перерыву."
+}

@@ -1,0 +1,4 @@
+Brand,Type,Product,Price,Currency,Quantity
+Davines,preorder,TEST PRODUCT A,12.50,EUR,100
+Tigi,preorder,TEST PRODUCT B,8.00,EUR,200
+Tigi,stock,TEST PRODUCT C,9.00,EUR,150

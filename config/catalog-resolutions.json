@@ -1,0 +1,9 @@
+{
+  "shared_brands_rows": [2, 20],
+  "shared_brands_confirmed": true,
+  "include_alexey": false,
+  "alexey_language": null,
+  "additional_contacts_belong_to_previous": true,
+  "stock_is_marker": true,
+  "generic_price_kind": null
+}

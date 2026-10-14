@@ -1,0 +1,6 @@
+interface:
+  display_name: "Запросить прайсы"
+  short_description: "Запросы прайсов, ответы и история в проекте Закупки"
+  default_prompt: "Используй $request-price-lists, чтобы подготовить запрос прайс-листов поставщикам."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,28 @@
+{
+  "fixture_only": true,
+  "description": "Вымышленные контакты; структура объединённых ячеек и дополнительных строк соответствует проверяемому формату таблицы.",
+  "values": [
+    ["№", "Язык общения", "Мы называем", "Английское название", "Nickname", "E-Mail 1 - Value", "Brand"],
+    [1, "", "Тестовый поставщик 01", "Test supplier 01", "Contact 02", "contact02@example.invalid", "Tigi\nDavines\nKydra\nGehwol\nRefectocil\nStock"],
+    [2, "Англ", "Тестовый поставщик 02", "Test supplier 02", "Contact 03", "contact03@example.invalid", ""],
+    ["", "", "", "", "Contact 04", "contact04@example.invalid", ""],
+    [3, "Англ", "Тестовый поставщик 03", "Test supplier 03", "Contact 05", "contact05@example.invalid", ""],
+    [4, "Англ", "Тестовый поставщик 04", "Test supplier 04", "Contact 06", "contact06@example.invalid", ""],
+    [5, "Англ", "Тестовый поставщик 05", "Test supplier 05", "Contact 07", "contact07@example.invalid", ""],
+    ["", "", "", "", "Contact 08", "contact08@example.invalid", ""],
+    ["", "", "", "", "Contact 09", "contact09@example.invalid", ""],
+    [6, "Русс", "Тестовый поставщик 06", "Test supplier 06", "Contact 10", "contact10@example.invalid", ""],
+    [7, "Англ", "Тестовый поставщик 07", "Test supplier 07", "Contact 11", "contact11@example.invalid", ""],
+    [8, "Русс", "Тестовый поставщик 08", "Test supplier 08", "Contact 12", "contact12@example.invalid", ""],
+    [9, "Русс", "Тестовый поставщик 09", "Test supplier 09", "Contact 13", "contact13@example.invalid", ""],
+    ["", "", "", "", "Contact 14", "contact14@example.invalid", ""],
+    [10, "Русс", "Тестовый поставщик 10", "Test supplier 10", "Contact 15", "contact15@example.invalid", ""],
+    [11, "Англ", "Тестовый поставщик 11", "Test supplier 11", "Contact 16", "contact16@example.invalid", ""],
+    [12, "Русс", "Тестовый поставщик 12", "Test supplier 12", "Contact 17", "contact17@example.invalid", ""],
+    [13, "Англ", "Тестовый поставщик 13", "Test supplier 13", "Contact 18", "contact18@example.invalid", ""],
+    [14, "Русс", "Тестовый поставщик 14", "Test supplier 14", "Contact 19", "contact19@example.invalid", ""],
+    [15, "Англ", "Тестовый поставщик 15", "Test supplier 15", "Contact 20", "contact20@example.invalid", ""],
+    [16, "Русс", "Тестовый поставщик 16", "Test supplier 16", "Contact 21", "contact21@example.invalid", "Kydra\nGehwol"],
+    [17, "Англ", "Тестовый поставщик 17", "Test supplier 17", "Contact 22", "contact22@example.invalid", "Refectocil"]
+  ]
+}

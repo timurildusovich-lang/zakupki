@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "test_fixture": true,
+  "brands": [{"name": "Davines", "aliases": []}, {"name": "Tigi", "aliases": ["Тиги"]}, {"name": "Alterna", "aliases": []}, {"name": "Wella Color", "aliases": []}, {"name": "WELLA", "aliases": []}],
+  "suppliers": [
+    {"id": "test_eu", "name": "Тестовый поставщик Европа", "english_name": "Example Beauty", "language": "en", "enabled": true, "emails": [{"address": "prices@example.invalid", "contact": "Test"}, {"address": "stock@example.invalid", "contact": "Test"}], "brands": ["Davines", "Tigi", "Alterna", "WELLA", "Wella Color"], "channels": ["email"]},
+    {"id": "test_ru", "name": "Тестовый поставщик Россия", "english_name": "Example RU", "language": "ru", "enabled": true, "emails": [{"address": "supplier@example.invalid", "contact": "Test"}], "brands": ["Davines", "Tigi", "Alterna"], "channels": ["email"]},
+    {"id": "test_silent", "name": "Тестовый поставщик без ответа", "english_name": "Example Silent", "language": "en", "enabled": true, "emails": [{"address": "silent@example.invalid", "contact": "Test"}], "brands": ["Alterna"], "channels": ["email"]}
+  ],
+  "unresolved_contacts": [],
+  "warnings": [],
+  "generic_price_kind": null
+}

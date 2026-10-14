@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "mode": "live",
+  "external_side_effects_enabled": true,
+  "mail": {
+    "sender": "tam_sabis4@mail.ru",
+    "display_name": "",
+    "smtp_host": "smtp.mail.ru",
+    "smtp_port": 465,
+    "smtp_security": "ssl",
+    "imap_host": "imap.mail.ru",
+    "imap_port": 993,
+    "env_file": ".env",
+    "login_env": "PRODUCTION_EMAIL_LOGIN",
+    "password_env": "PRODUCTION_EMAIL_PASSWORD",
+    "read_enabled": true,
+    "send_enabled": true,
+    "inbox_folder": "INBOX",
+    "signature_ru": "",
+    "signature_en": ""
+  },
+  "mail_test": {"sender": "timur-ildusovich@mail.ru", "recipient": "timurildusovich@gmail.com", "inventory_scope": "mail_test_history_only", "login_env": "EMAIL_LOGIN", "password_env": "EMAIL_PASSWORD"},
+  "production_transition": {
+    "authorized": true,
+    "authorized_on": "2026-10-14",
+    "condition": "successful_mail_test_completed",
+    "status": "waiting_for_production_credentials",
+    "mail_test_completed": true,
+    "mail_test_request_id": "req_41ef5da3d3d7",
+    "mail_test_reply_id": "mail_68346d6c92ed45e7e925",
+    "sender": "tam_sabis4@mail.ru",
+    "recipient_source": "supplier_catalog_by_requested_brands",
+    "request_preview_confirmation_required": true,
+    "authorization_text": "Ок, после завершения переходи в боевой режим, пусть почта отправляется не только на timurildusovich@gmail.com, а на все адреса из боевой таблицы"
+  },
+  "calendar": {
+    "timezone": "Europe/Moscow",
+    "weekdays": [1, 2, 3, 4, 5],
+    "start": "09:00",
+    "end": "19:00",
+    "new_year_break": [{"start": "12-31", "end": "01-07"}],
+    "rule_confirmed": true
+  },
+  "reminders": {"max_count": 5, "interval_eligible_days": 1, "final_response_wait_eligible_days": 1},
+  "freshness": {"stock_days": 7, "preorder_unit": "calendar_month"},
+  "generation": {"engine": "codex", "variation": "high", "tone": "business", "numeric_temperature": null},
+  "drive": {
+    "root_folder_id": "1I_AjRCFe2YSVsESxpq9v3Io60cNQZa_J",
+    "write_enabled": false,
+    "mixed_brand_policy": "ask_user",
+    "file_names": "preserve_supplier_name"
+  },
+  "sources": {
+    "specification_document_id": "1AcD8owmvktfo-v7f9qx5UtoKW3ABNvFvn5IYa_TZvHI",
+    "supplier_spreadsheet_id": "1-yQBQXjbKm8dXp_9Et4_GP2SQnS35DA4pOvx2U4nBKM",
+    "supplier_sheet": "Лист1",
+    "catalog_max_age_hours": 24,
+    "inventory_check_max_age_hours": 24
+  },
+  "files": {"accepted_extensions": [".xls", ".xlsx", ".csv", ".pdf", ".zip", ".rar"], "max_attachment_bytes": 52428800},
+  "notifications": {"channel": "codex", "telegram_price_links_enabled": false},
+  "future_channels": {"telegram": "deferred", "whatsapp": "deferred"}
+}
