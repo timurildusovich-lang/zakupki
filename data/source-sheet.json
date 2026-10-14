@@ -1,0 +1,188 @@
+{
+  "source_url": "https://docs.google.com/spreadsheets/d/1-yQBQXjbKm8dXp_9Et4_GP2SQnS35DA4pOvx2U4nBKM/edit",
+  "sheet": "Лист1",
+  "range": "'Лист1'!A1:G130",
+  "fetched_at": "2026-10-14T12:04:57Z",
+  "values": [
+    [
+      null,
+      "Язык общения",
+      "Мы называем",
+      "Английское название",
+      "Nickname",
+      "E-Mail 1 - Value",
+      "Brand"
+    ],
+    [
+      "1",
+      null,
+      "Алексей прайсы (дубли)",
+      null,
+      "Алексей",
+      "sabis4@mail.ru",
+      "Tigi\nGoldwell\nKerasilk\nOlaplex\nDSD\nGehwol\nDavines\nKydra\nKerastase\nRedken\nWella Color\nWELLA\nLonda\nSchwarzkopf\nKeune\nNioxin\nAlterna\nMacadamia\nBatiste\nRefectocil\nAmerican Crew\nRevlon\nPayot\nК18\nDikson\nLoreal\nRituals\nTruefitt & Hill\nLock Stock & Barrel\nCHI\nFarouk\nKevin Murphy\nProraso\nSolomons\nReuzel\nMorgans\nBabyliss\nMarvis\nLUXINA\nDepot \nFLOID\nCollistar \nLondon Grooming\nAcca Kappa\nGraham Hill\nUppercut\nNashi Argan\nStock"
+    ],
+    [
+      "2",
+      "Англ",
+      "Мтим",
+      "mTeam",
+      "Adrian Gałązka",
+      "adrian@mteam.pl"
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      "Konrad Gałązka",
+      "info@mteam.pl"
+    ],
+    [
+      "3",
+      "Англ",
+      "Artemis (ЭРОС)",
+      "Artemis Beauty",
+      "Artemis Trading",
+      "artemisbeauty.tr@gmail.com"
+    ],
+    [
+      "4",
+      "Англ",
+      "Хеир",
+      "Hairindustry",
+      "c.cantore",
+      "c.cantore@hairindustrygroup.com"
+    ],
+    [
+      "5",
+      "Англ",
+      "Голландия",
+      "Cosmetics & HairCare B.V.",
+      "Johnathan Gijsbertha",
+      "jgijsbertha@beauty-ww.com"
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      "Hussein Hamdoun",
+      "hhamdoun@beauty-ww.com"
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      "Preslav Petrov",
+      "ppetrov@beauty-ww.com"
+    ],
+    [
+      "6",
+      "Русс",
+      "Мирива",
+      "Miriva",
+      "info",
+      "info@miriva.de"
+    ],
+    [
+      "7",
+      "Англ",
+      "БьютиБрокер",
+      "beautybroker",
+      "Andrew Jay from BeautyBroker",
+      "info@beautybroker.eu"
+    ],
+    [
+      "8",
+      "Русс",
+      "Микс +",
+      "MIKS PLUS",
+      "j.macys",
+      "j.macys@miksplus.eu"
+    ],
+    [
+      "9",
+      "Русс",
+      "Van Caem",
+      "Van Caem",
+      "liliana",
+      "liliana@caemdistribution.com"
+    ],
+    [
+      null,
+      null,
+      null,
+      null,
+      "daria.khripkova",
+      "daria.khripkova@prestigesupply.com"
+    ],
+    [
+      "10",
+      "Русс",
+      "Габона",
+      "Gabona",
+      "Marek Jaśkiewicz",
+      "marek.jaskiewicz@gabona.com"
+    ],
+    [
+      "11",
+      "Англ",
+      "Дермо",
+      "Dermoesthetic",
+      "Michael le",
+      "michael.le@dermoesthetic.cz"
+    ],
+    [
+      "12",
+      "Русс",
+      "Мариус",
+      "iEVA",
+      "One Sky Int.",
+      "b2b@hushmail.com"
+    ],
+    [
+      "13",
+      "Англ",
+      "Пиотр",
+      "Bea Beleza",
+      "Piotr Filas",
+      "piotr.filas@beabeleza.pl"
+    ],
+    [
+      "14",
+      "Русс",
+      "Славира",
+      "AR Beauty HUB",
+      "purchase",
+      "purchase@slavira.lt"
+    ],
+    [
+      "15",
+      "Англ",
+      "DVG",
+      "DVG",
+      "rafay",
+      "rafay@devuursteengroup.com"
+    ],
+    [
+      "16",
+      "Русс",
+      "Туба",
+      "TUBA",
+      "office",
+      "office@tubas.lv",
+      "Kydra\nGehwol"
+    ],
+    [
+      "17",
+      "Англ",
+      "Комаир",
+      "Comair",
+      "Eichler, Björn",
+      "b.eichler@comair-germany.com",
+      "Refectocil"
+    ]
+  ]
+}

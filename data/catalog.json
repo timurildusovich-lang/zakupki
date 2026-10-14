@@ -1,0 +1,1309 @@
+{
+  "schema_version": 1,
+  "brands": [
+    {
+      "name": "Tigi",
+      "aliases": []
+    },
+    {
+      "name": "Goldwell",
+      "aliases": []
+    },
+    {
+      "name": "Kerasilk",
+      "aliases": []
+    },
+    {
+      "name": "Olaplex",
+      "aliases": []
+    },
+    {
+      "name": "DSD",
+      "aliases": []
+    },
+    {
+      "name": "Gehwol",
+      "aliases": []
+    },
+    {
+      "name": "Davines",
+      "aliases": []
+    },
+    {
+      "name": "Kydra",
+      "aliases": []
+    },
+    {
+      "name": "Kerastase",
+      "aliases": []
+    },
+    {
+      "name": "Redken",
+      "aliases": []
+    },
+    {
+      "name": "Wella Color",
+      "aliases": []
+    },
+    {
+      "name": "WELLA",
+      "aliases": []
+    },
+    {
+      "name": "Londa",
+      "aliases": []
+    },
+    {
+      "name": "Schwarzkopf",
+      "aliases": []
+    },
+    {
+      "name": "Keune",
+      "aliases": []
+    },
+    {
+      "name": "Nioxin",
+      "aliases": []
+    },
+    {
+      "name": "Alterna",
+      "aliases": []
+    },
+    {
+      "name": "Macadamia",
+      "aliases": []
+    },
+    {
+      "name": "Batiste",
+      "aliases": []
+    },
+    {
+      "name": "Refectocil",
+      "aliases": []
+    },
+    {
+      "name": "American Crew",
+      "aliases": []
+    },
+    {
+      "name": "Revlon",
+      "aliases": []
+    },
+    {
+      "name": "Payot",
+      "aliases": []
+    },
+    {
+      "name": "К18",
+      "aliases": []
+    },
+    {
+      "name": "Dikson",
+      "aliases": []
+    },
+    {
+      "name": "Loreal",
+      "aliases": []
+    },
+    {
+      "name": "Rituals",
+      "aliases": []
+    },
+    {
+      "name": "Truefitt & Hill",
+      "aliases": []
+    },
+    {
+      "name": "Lock Stock & Barrel",
+      "aliases": []
+    },
+    {
+      "name": "CHI",
+      "aliases": []
+    },
+    {
+      "name": "Farouk",
+      "aliases": []
+    },
+    {
+      "name": "Kevin Murphy",
+      "aliases": []
+    },
+    {
+      "name": "Proraso",
+      "aliases": []
+    },
+    {
+      "name": "Solomons",
+      "aliases": []
+    },
+    {
+      "name": "Reuzel",
+      "aliases": []
+    },
+    {
+      "name": "Morgans",
+      "aliases": []
+    },
+    {
+      "name": "Babyliss",
+      "aliases": []
+    },
+    {
+      "name": "Marvis",
+      "aliases": []
+    },
+    {
+      "name": "LUXINA",
+      "aliases": []
+    },
+    {
+      "name": "Depot",
+      "aliases": []
+    },
+    {
+      "name": "FLOID",
+      "aliases": []
+    },
+    {
+      "name": "Collistar",
+      "aliases": []
+    },
+    {
+      "name": "London Grooming",
+      "aliases": []
+    },
+    {
+      "name": "Acca Kappa",
+      "aliases": []
+    },
+    {
+      "name": "Graham Hill",
+      "aliases": []
+    },
+    {
+      "name": "Uppercut",
+      "aliases": []
+    },
+    {
+      "name": "Nashi Argan",
+      "aliases": []
+    }
+  ],
+  "suppliers": [
+    {
+      "id": "supplier_01",
+      "name": "Алексей прайсы (дубли)",
+      "english_name": "",
+      "language": null,
+      "enabled": false,
+      "emails": [
+        {
+          "address": "sabis4@mail.ru",
+          "contact": "Алексей",
+          "source_row": 2
+        }
+      ],
+      "brands": [
+        "Tigi",
+        "Goldwell",
+        "Kerasilk",
+        "Olaplex",
+        "DSD",
+        "Gehwol",
+        "Davines",
+        "Kydra",
+        "Kerastase",
+        "Redken",
+        "Wella Color",
+        "WELLA",
+        "Londa",
+        "Schwarzkopf",
+        "Keune",
+        "Nioxin",
+        "Alterna",
+        "Macadamia",
+        "Batiste",
+        "Refectocil",
+        "American Crew",
+        "Revlon",
+        "Payot",
+        "К18",
+        "Dikson",
+        "Loreal",
+        "Rituals",
+        "Truefitt & Hill",
+        "Lock Stock & Barrel",
+        "CHI",
+        "Farouk",
+        "Kevin Murphy",
+        "Proraso",
+        "Solomons",
+        "Reuzel",
+        "Morgans",
+        "Babyliss",
+        "Marvis",
+        "LUXINA",
+        "Depot",
+        "FLOID",
+        "Collistar",
+        "London Grooming",
+        "Acca Kappa",
+        "Graham Hill",
+        "Uppercut",
+        "Nashi Argan"
+      ],
+      "source_rows": [
+        2
+      ],
+      "channels": [
+        "email"
+      ]
+    },
+    {
+      "id": "supplier_02",
+      "name": "Мтим",
+      "english_name": "mTeam",
+      "language": "en",
+      "enabled": true,
+      "emails": [
+        {
+          "address": "adrian@mteam.pl",
+          "contact": "Adrian Gałązka",
+          "source_row": 3
+        },
+        {
+          "address": "info@mteam.pl",
+          "contact": "Konrad Gałązka",
+          "source_row": 4
+        }
+      ],
+      "brands": [
+        "Tigi",
+        "Goldwell",
+        "Kerasilk",
+        "Olaplex",
+        "DSD",
+        "Gehwol",
+        "Davines",
+        "Kydra",
+        "Kerastase",
+        "Redken",
+        "Wella Color",
+        "WELLA",
+        "Londa",
+        "Schwarzkopf",
+        "Keune",
+        "Nioxin",
+        "Alterna",
+        "Macadamia",
+        "Batiste",
+        "Refectocil",
+        "American Crew",
+        "Revlon",
+        "Payot",
+        "К18",
+        "Dikson",
+        "Loreal",
+        "Rituals",
+        "Truefitt & Hill",
+        "Lock Stock & Barrel",
+        "CHI",
+        "Farouk",
+        "Kevin Murphy",
+        "Proraso",
+        "Solomons",
+        "Reuzel",
+        "Morgans",
+        "Babyliss",
+        "Marvis",
+        "LUXINA",
+        "Depot",
+        "FLOID",
+        "Collistar",
+        "London Grooming",
+        "Acca Kappa",
+        "Graham Hill",
+        "Uppercut",
+        "Nashi Argan"
+      ],
+      "source_rows": [
+        3,
+        4
+      ],
+      "channels": [
+        "email"
+      ]
+    },
+    {
+      "id": "supplier_03",
+      "name": "Artemis (ЭРОС)",
+      "english_name": "Artemis Beauty",
+      "language": "en",
+      "enabled": true,
+      "emails": [
+        {
+          "address": "artemisbeauty.tr@gmail.com",
+          "contact": "Artemis Trading",
+          "source_row": 5
+        }
+      ],
+      "brands": [
+        "Tigi",
+        "Goldwell",
+        "Kerasilk",
+        "Olaplex",
+        "DSD",
+        "Gehwol",
+        "Davines",
+        "Kydra",
+        "Kerastase",
+        "Redken",
+        "Wella Color",
+        "WELLA",
+        "Londa",
+        "Schwarzkopf",
+        "Keune",
+        "Nioxin",
+        "Alterna",
+        "Macadamia",
+        "Batiste",
+        "Refectocil",
+        "American Crew",
+        "Revlon",
+        "Payot",
+        "К18",
+        "Dikson",
+        "Loreal",
+        "Rituals",
+        "Truefitt & Hill",
+        "Lock Stock & Barrel",
+        "CHI",
+        "Farouk",
+        "Kevin Murphy",
+        "Proraso",
+        "Solomons",
+        "Reuzel",
+        "Morgans",
+        "Babyliss",
+        "Marvis",
+        "LUXINA",
+        "Depot",
+        "FLOID",
+        "Collistar",
+        "London Grooming",
+        "Acca Kappa",
+        "Graham Hill",
+        "Uppercut",
+        "Nashi Argan"
+      ],
+      "source_rows": [
+        5
+      ],
+      "channels": [
+        "email"
+      ]
+    },
+    {
+      "id": "supplier_04",
+      "name": "Хеир",
+      "english_name": "Hairindustry",
+      "language": "en",
+      "enabled": true,
+      "emails": [
+        {
+          "address": "c.cantore@hairindustrygroup.com",
+          "contact": "c.cantore",
+          "source_row": 6
+        }
+      ],
+      "brands": [
+        "Tigi",
+        "Goldwell",
+        "Kerasilk",
+        "Olaplex",
+        "DSD",
+        "Gehwol",
+        "Davines",
+        "Kydra",
+        "Kerastase",
+        "Redken",
+        "Wella Color",
+        "WELLA",
+        "Londa",
+        "Schwarzkopf",
+        "Keune",
+        "Nioxin",
+        "Alterna",
+        "Macadamia",
+        "Batiste",
+        "Refectocil",
+        "American Crew",
+        "Revlon",
+        "Payot",
+        "К18",
+        "Dikson",
+        "Loreal",
+        "Rituals",
+        "Truefitt & Hill",
+        "Lock Stock & Barrel",
+        "CHI",
+        "Farouk",
+        "Kevin Murphy",
+        "Proraso",
+        "Solomons",
+        "Reuzel",
+        "Morgans",
+        "Babyliss",
+        "Marvis",
+        "LUXINA",
+        "Depot",
+        "FLOID",
+        "Collistar",
+        "London Grooming",
+        "Acca Kappa",
+        "Graham Hill",
+        "Uppercut",
+        "Nashi Argan"
+      ],
+      "source_rows": [
+        6
+      ],
+      "channels": [
+        "email"
+      ]
+    },
+    {
+      "id": "supplier_05",
+      "name": "Голландия",
+      "english_name": "Cosmetics & HairCare B.V.",
+      "language": "en",
+      "enabled": true,
+      "emails": [
+        {
+          "address": "jgijsbertha@beauty-ww.com",
+          "contact": "Johnathan Gijsbertha",
+          "source_row": 7
+        },
+        {
+          "address": "hhamdoun@beauty-ww.com",
+          "contact": "Hussein Hamdoun",
+          "source_row": 8
+        },
+        {
+          "address": "ppetrov@beauty-ww.com",
+          "contact": "Preslav Petrov",
+          "source_row": 9
+        }
+      ],
+      "brands": [
+        "Tigi",
+        "Goldwell",
+        "Kerasilk",
+        "Olaplex",
+        "DSD",
+        "Gehwol",
+        "Davines",
+        "Kydra",
+        "Kerastase",
+        "Redken",
+        "Wella Color",
+        "WELLA",
+        "Londa",
+        "Schwarzkopf",
+        "Keune",
+        "Nioxin",
+        "Alterna",
+        "Macadamia",
+        "Batiste",
+        "Refectocil",
+        "American Crew",
+        "Revlon",
+        "Payot",
+        "К18",
+        "Dikson",
+        "Loreal",
+        "Rituals",
+        "Truefitt & Hill",
+        "Lock Stock & Barrel",
+        "CHI",
+        "Farouk",
+        "Kevin Murphy",
+        "Proraso",
+        "Solomons",
+        "Reuzel",
+        "Morgans",
+        "Babyliss",
+        "Marvis",
+        "LUXINA",
+        "Depot",
+        "FLOID",
+        "Collistar",
+        "London Grooming",
+        "Acca Kappa",
+        "Graham Hill",
+        "Uppercut",
+        "Nashi Argan"
+      ],
+      "source_rows": [
+        7,
+        8,
+        9
+      ],
+      "channels": [
+        "email"
+      ]
+    },
+    {
+      "id": "supplier_06",
+      "name": "Мирива",
+      "english_name": "Miriva",
+      "language": "ru",
+      "enabled": true,
+      "emails": [
+        {
+          "address": "info@miriva.de",
+          "contact": "info",
+          "source_row": 10
+        }
+      ],
+      "brands": [
+        "Tigi",
+        "Goldwell",
+        "Kerasilk",
+        "Olaplex",
+        "DSD",
+        "Gehwol",
+        "Davines",
+        "Kydra",
+        "Kerastase",
+        "Redken",
+        "Wella Color",
+        "WELLA",
+        "Londa",
+        "Schwarzkopf",
+        "Keune",
+        "Nioxin",
+        "Alterna",
+        "Macadamia",
+        "Batiste",
+        "Refectocil",
+        "American Crew",
+        "Revlon",
+        "Payot",
+        "К18",
+        "Dikson",
+        "Loreal",
+        "Rituals",
+        "Truefitt & Hill",
+        "Lock Stock & Barrel",
+        "CHI",
+        "Farouk",
+        "Kevin Murphy",
+        "Proraso",
+        "Solomons",
+        "Reuzel",
+        "Morgans",
+        "Babyliss",
+        "Marvis",
+        "LUXINA",
+        "Depot",
+        "FLOID",
+        "Collistar",
+        "London Grooming",
+        "Acca Kappa",
+        "Graham Hill",
+        "Uppercut",
+        "Nashi Argan"
+      ],
+      "source_rows": [
+        10
+      ],
+      "channels": [
+        "email"
+      ]
+    },
+    {
+      "id": "supplier_07",
+      "name": "БьютиБрокер",
+      "english_name": "beautybroker",
+      "language": "en",
+      "enabled": true,
+      "emails": [
+        {
+          "address": "info@beautybroker.eu",
+          "contact": "Andrew Jay from BeautyBroker",
+          "source_row": 11
+        }
+      ],
+      "brands": [
+        "Tigi",
+        "Goldwell",
+        "Kerasilk",
+        "Olaplex",
+        "DSD",
+        "Gehwol",
+        "Davines",
+        "Kydra",
+        "Kerastase",
+        "Redken",
+        "Wella Color",
+        "WELLA",
+        "Londa",
+        "Schwarzkopf",
+        "Keune",
+        "Nioxin",
+        "Alterna",
+        "Macadamia",
+        "Batiste",
+        "Refectocil",
+        "American Crew",
+        "Revlon",
+        "Payot",
+        "К18",
+        "Dikson",
+        "Loreal",
+        "Rituals",
+        "Truefitt & Hill",
+        "Lock Stock & Barrel",
+        "CHI",
+        "Farouk",
+        "Kevin Murphy",
+        "Proraso",
+        "Solomons",
+        "Reuzel",
+        "Morgans",
+        "Babyliss",
+        "Marvis",
+        "LUXINA",
+        "Depot",
+        "FLOID",
+        "Collistar",
+        "London Grooming",
+        "Acca Kappa",
+        "Graham Hill",
+        "Uppercut",
+        "Nashi Argan"
+      ],
+      "source_rows": [
+        11
+      ],
+      "channels": [
+        "email"
+      ]
+    },
+    {
+      "id": "supplier_08",
+      "name": "Микс +",
+      "english_name": "MIKS PLUS",
+      "language": "ru",
+      "enabled": true,
+      "emails": [
+        {
+          "address": "j.macys@miksplus.eu",
+          "contact": "j.macys",
+          "source_row": 12
+        }
+      ],
+      "brands": [
+        "Tigi",
+        "Goldwell",
+        "Kerasilk",
+        "Olaplex",
+        "DSD",
+        "Gehwol",
+        "Davines",
+        "Kydra",
+        "Kerastase",
+        "Redken",
+        "Wella Color",
+        "WELLA",
+        "Londa",
+        "Schwarzkopf",
+        "Keune",
+        "Nioxin",
+        "Alterna",
+        "Macadamia",
+        "Batiste",
+        "Refectocil",
+        "American Crew",
+        "Revlon",
+        "Payot",
+        "К18",
+        "Dikson",
+        "Loreal",
+        "Rituals",
+        "Truefitt & Hill",
+        "Lock Stock & Barrel",
+        "CHI",
+        "Farouk",
+        "Kevin Murphy",
+        "Proraso",
+        "Solomons",
+        "Reuzel",
+        "Morgans",
+        "Babyliss",
+        "Marvis",
+        "LUXINA",
+        "Depot",
+        "FLOID",
+        "Collistar",
+        "London Grooming",
+        "Acca Kappa",
+        "Graham Hill",
+        "Uppercut",
+        "Nashi Argan"
+      ],
+      "source_rows": [
+        12
+      ],
+      "channels": [
+        "email"
+      ]
+    },
+    {
+      "id": "supplier_09",
+      "name": "Van Caem",
+      "english_name": "Van Caem",
+      "language": "ru",
+      "enabled": true,
+      "emails": [
+        {
+          "address": "liliana@caemdistribution.com",
+          "contact": "liliana",
+          "source_row": 13
+        },
+        {
+          "address": "daria.khripkova@prestigesupply.com",
+          "contact": "daria.khripkova",
+          "source_row": 14
+        }
+      ],
+      "brands": [
+        "Tigi",
+        "Goldwell",
+        "Kerasilk",
+        "Olaplex",
+        "DSD",
+        "Gehwol",
+        "Davines",
+        "Kydra",
+        "Kerastase",
+        "Redken",
+        "Wella Color",
+        "WELLA",
+        "Londa",
+        "Schwarzkopf",
+        "Keune",
+        "Nioxin",
+        "Alterna",
+        "Macadamia",
+        "Batiste",
+        "Refectocil",
+        "American Crew",
+        "Revlon",
+        "Payot",
+        "К18",
+        "Dikson",
+        "Loreal",
+        "Rituals",
+        "Truefitt & Hill",
+        "Lock Stock & Barrel",
+        "CHI",
+        "Farouk",
+        "Kevin Murphy",
+        "Proraso",
+        "Solomons",
+        "Reuzel",
+        "Morgans",
+        "Babyliss",
+        "Marvis",
+        "LUXINA",
+        "Depot",
+        "FLOID",
+        "Collistar",
+        "London Grooming",
+        "Acca Kappa",
+        "Graham Hill",
+        "Uppercut",
+        "Nashi Argan"
+      ],
+      "source_rows": [
+        13,
+        14
+      ],
+      "channels": [
+        "email"
+      ]
+    },
+    {
+      "id": "supplier_10",
+      "name": "Габона",
+      "english_name": "Gabona",
+      "language": "ru",
+      "enabled": true,
+      "emails": [
+        {
+          "address": "marek.jaskiewicz@gabona.com",
+          "contact": "Marek Jaśkiewicz",
+          "source_row": 15
+        }
+      ],
+      "brands": [
+        "Tigi",
+        "Goldwell",
+        "Kerasilk",
+        "Olaplex",
+        "DSD",
+        "Gehwol",
+        "Davines",
+        "Kydra",
+        "Kerastase",
+        "Redken",
+        "Wella Color",
+        "WELLA",
+        "Londa",
+        "Schwarzkopf",
+        "Keune",
+        "Nioxin",
+        "Alterna",
+        "Macadamia",
+        "Batiste",
+        "Refectocil",
+        "American Crew",
+        "Revlon",
+        "Payot",
+        "К18",
+        "Dikson",
+        "Loreal",
+        "Rituals",
+        "Truefitt & Hill",
+        "Lock Stock & Barrel",
+        "CHI",
+        "Farouk",
+        "Kevin Murphy",
+        "Proraso",
+        "Solomons",
+        "Reuzel",
+        "Morgans",
+        "Babyliss",
+        "Marvis",
+        "LUXINA",
+        "Depot",
+        "FLOID",
+        "Collistar",
+        "London Grooming",
+        "Acca Kappa",
+        "Graham Hill",
+        "Uppercut",
+        "Nashi Argan"
+      ],
+      "source_rows": [
+        15
+      ],
+      "channels": [
+        "email"
+      ]
+    },
+    {
+      "id": "supplier_11",
+      "name": "Дермо",
+      "english_name": "Dermoesthetic",
+      "language": "en",
+      "enabled": true,
+      "emails": [
+        {
+          "address": "michael.le@dermoesthetic.cz",
+          "contact": "Michael le",
+          "source_row": 16
+        }
+      ],
+      "brands": [
+        "Tigi",
+        "Goldwell",
+        "Kerasilk",
+        "Olaplex",
+        "DSD",
+        "Gehwol",
+        "Davines",
+        "Kydra",
+        "Kerastase",
+        "Redken",
+        "Wella Color",
+        "WELLA",
+        "Londa",
+        "Schwarzkopf",
+        "Keune",
+        "Nioxin",
+        "Alterna",
+        "Macadamia",
+        "Batiste",
+        "Refectocil",
+        "American Crew",
+        "Revlon",
+        "Payot",
+        "К18",
+        "Dikson",
+        "Loreal",
+        "Rituals",
+        "Truefitt & Hill",
+        "Lock Stock & Barrel",
+        "CHI",
+        "Farouk",
+        "Kevin Murphy",
+        "Proraso",
+        "Solomons",
+        "Reuzel",
+        "Morgans",
+        "Babyliss",
+        "Marvis",
+        "LUXINA",
+        "Depot",
+        "FLOID",
+        "Collistar",
+        "London Grooming",
+        "Acca Kappa",
+        "Graham Hill",
+        "Uppercut",
+        "Nashi Argan"
+      ],
+      "source_rows": [
+        16
+      ],
+      "channels": [
+        "email"
+      ]
+    },
+    {
+      "id": "supplier_12",
+      "name": "Мариус",
+      "english_name": "iEVA",
+      "language": "ru",
+      "enabled": true,
+      "emails": [
+        {
+          "address": "b2b@hushmail.com",
+          "contact": "One Sky Int.",
+          "source_row": 17
+        }
+      ],
+      "brands": [
+        "Tigi",
+        "Goldwell",
+        "Kerasilk",
+        "Olaplex",
+        "DSD",
+        "Gehwol",
+        "Davines",
+        "Kydra",
+        "Kerastase",
+        "Redken",
+        "Wella Color",
+        "WELLA",
+        "Londa",
+        "Schwarzkopf",
+        "Keune",
+        "Nioxin",
+        "Alterna",
+        "Macadamia",
+        "Batiste",
+        "Refectocil",
+        "American Crew",
+        "Revlon",
+        "Payot",
+        "К18",
+        "Dikson",
+        "Loreal",
+        "Rituals",
+        "Truefitt & Hill",
+        "Lock Stock & Barrel",
+        "CHI",
+        "Farouk",
+        "Kevin Murphy",
+        "Proraso",
+        "Solomons",
+        "Reuzel",
+        "Morgans",
+        "Babyliss",
+        "Marvis",
+        "LUXINA",
+        "Depot",
+        "FLOID",
+        "Collistar",
+        "London Grooming",
+        "Acca Kappa",
+        "Graham Hill",
+        "Uppercut",
+        "Nashi Argan"
+      ],
+      "source_rows": [
+        17
+      ],
+      "channels": [
+        "email"
+      ]
+    },
+    {
+      "id": "supplier_13",
+      "name": "Пиотр",
+      "english_name": "Bea Beleza",
+      "language": "en",
+      "enabled": true,
+      "emails": [
+        {
+          "address": "piotr.filas@beabeleza.pl",
+          "contact": "Piotr Filas",
+          "source_row": 18
+        }
+      ],
+      "brands": [
+        "Tigi",
+        "Goldwell",
+        "Kerasilk",
+        "Olaplex",
+        "DSD",
+        "Gehwol",
+        "Davines",
+        "Kydra",
+        "Kerastase",
+        "Redken",
+        "Wella Color",
+        "WELLA",
+        "Londa",
+        "Schwarzkopf",
+        "Keune",
+        "Nioxin",
+        "Alterna",
+        "Macadamia",
+        "Batiste",
+        "Refectocil",
+        "American Crew",
+        "Revlon",
+        "Payot",
+        "К18",
+        "Dikson",
+        "Loreal",
+        "Rituals",
+        "Truefitt & Hill",
+        "Lock Stock & Barrel",
+        "CHI",
+        "Farouk",
+        "Kevin Murphy",
+        "Proraso",
+        "Solomons",
+        "Reuzel",
+        "Morgans",
+        "Babyliss",
+        "Marvis",
+        "LUXINA",
+        "Depot",
+        "FLOID",
+        "Collistar",
+        "London Grooming",
+        "Acca Kappa",
+        "Graham Hill",
+        "Uppercut",
+        "Nashi Argan"
+      ],
+      "source_rows": [
+        18
+      ],
+      "channels": [
+        "email"
+      ]
+    },
+    {
+      "id": "supplier_14",
+      "name": "Славира",
+      "english_name": "AR Beauty HUB",
+      "language": "ru",
+      "enabled": true,
+      "emails": [
+        {
+          "address": "purchase@slavira.lt",
+          "contact": "purchase",
+          "source_row": 19
+        }
+      ],
+      "brands": [
+        "Tigi",
+        "Goldwell",
+        "Kerasilk",
+        "Olaplex",
+        "DSD",
+        "Gehwol",
+        "Davines",
+        "Kydra",
+        "Kerastase",
+        "Redken",
+        "Wella Color",
+        "WELLA",
+        "Londa",
+        "Schwarzkopf",
+        "Keune",
+        "Nioxin",
+        "Alterna",
+        "Macadamia",
+        "Batiste",
+        "Refectocil",
+        "American Crew",
+        "Revlon",
+        "Payot",
+        "К18",
+        "Dikson",
+        "Loreal",
+        "Rituals",
+        "Truefitt & Hill",
+        "Lock Stock & Barrel",
+        "CHI",
+        "Farouk",
+        "Kevin Murphy",
+        "Proraso",
+        "Solomons",
+        "Reuzel",
+        "Morgans",
+        "Babyliss",
+        "Marvis",
+        "LUXINA",
+        "Depot",
+        "FLOID",
+        "Collistar",
+        "London Grooming",
+        "Acca Kappa",
+        "Graham Hill",
+        "Uppercut",
+        "Nashi Argan"
+      ],
+      "source_rows": [
+        19
+      ],
+      "channels": [
+        "email"
+      ]
+    },
+    {
+      "id": "supplier_15",
+      "name": "DVG",
+      "english_name": "DVG",
+      "language": "en",
+      "enabled": true,
+      "emails": [
+        {
+          "address": "rafay@devuursteengroup.com",
+          "contact": "rafay",
+          "source_row": 20
+        }
+      ],
+      "brands": [
+        "Tigi",
+        "Goldwell",
+        "Kerasilk",
+        "Olaplex",
+        "DSD",
+        "Gehwol",
+        "Davines",
+        "Kydra",
+        "Kerastase",
+        "Redken",
+        "Wella Color",
+        "WELLA",
+        "Londa",
+        "Schwarzkopf",
+        "Keune",
+        "Nioxin",
+        "Alterna",
+        "Macadamia",
+        "Batiste",
+        "Refectocil",
+        "American Crew",
+        "Revlon",
+        "Payot",
+        "К18",
+        "Dikson",
+        "Loreal",
+        "Rituals",
+        "Truefitt & Hill",
+        "Lock Stock & Barrel",
+        "CHI",
+        "Farouk",
+        "Kevin Murphy",
+        "Proraso",
+        "Solomons",
+        "Reuzel",
+        "Morgans",
+        "Babyliss",
+        "Marvis",
+        "LUXINA",
+        "Depot",
+        "FLOID",
+        "Collistar",
+        "London Grooming",
+        "Acca Kappa",
+        "Graham Hill",
+        "Uppercut",
+        "Nashi Argan"
+      ],
+      "source_rows": [
+        20
+      ],
+      "channels": [
+        "email"
+      ]
+    },
+    {
+      "id": "supplier_16",
+      "name": "Туба",
+      "english_name": "TUBA",
+      "language": "ru",
+      "enabled": true,
+      "emails": [
+        {
+          "address": "office@tubas.lv",
+          "contact": "office",
+          "source_row": 21
+        }
+      ],
+      "brands": [
+        "Kydra",
+        "Gehwol"
+      ],
+      "source_rows": [
+        21
+      ],
+      "channels": [
+        "email"
+      ]
+    },
+    {
+      "id": "supplier_17",
+      "name": "Комаир",
+      "english_name": "Comair",
+      "language": "en",
+      "enabled": true,
+      "emails": [
+        {
+          "address": "b.eichler@comair-germany.com",
+          "contact": "Eichler, Björn",
+          "source_row": 22
+        }
+      ],
+      "brands": [
+        "Refectocil"
+      ],
+      "source_rows": [
+        22
+      ],
+      "channels": [
+        "email"
+      ]
+    }
+  ],
+  "unresolved_contacts": [],
+  "warnings": [],
+  "mapping_rule": "G2:G20 — общие бренды; G21 и G22 — индивидуальные, подтверждено пользователем",
+  "source": "https://docs.google.com/spreadsheets/d/1-yQBQXjbKm8dXp_9Et4_GP2SQnS35DA4pOvx2U4nBKM/edit",
+  "source_sheet": "Лист1",
+  "source_range": "'Лист1'!A1:G130",
+  "synced_at": "2026-10-14T12:04:57Z",
+  "generic_price_kind": null
+}
